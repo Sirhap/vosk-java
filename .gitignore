@@ -1,0 +1,10 @@
+target/
+*.class
+*.log
+model/
+lib/
+.vscode/
+.idea/*
+logs/
+temp/
+vosk-model-cn-0.22/
